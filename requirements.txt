@@ -3,3 +3,9 @@ pandas
 numpy
 scikit-learn
 pymongo
+certifi
+
+# -e . 
+
+# -e . : This is a local package and its function is to allow for
+# editable installs. It refers to setup.py file
